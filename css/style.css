@@ -694,7 +694,7 @@ Swiper
 }
 
 .swiper-button-disabled {
-    background: #31313133;
+    background: #31313133 !important;
     pointer-events: none;
 }
 
